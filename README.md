@@ -1,6 +1,6 @@
 # yes.
 
-## push-server 推送服务器
+## push-server 推送服务器2
 推送微信
 
 ## web
